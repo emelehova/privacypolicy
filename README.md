@@ -288,8 +288,7 @@ div.im-colormask > div {
 
         <head>
 
-        </body>
-        </html>
+
 
 
 
