@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru" style="--header-height:128.969px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">.uib-time input{width:50px;}</style><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">.uib-datepicker-popup.dropdown-menu{display:block;float:none;margin:0;}.uib-button-bar{padding:10px 9px 2px;}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute !important;top:-9999px !important;width:50px !important;height:50px !important;overflow:scroll !important;}.uib-position-body-scrollbar-measure{overflow:scroll !important;}</style><style type="text/css">.uib-datepicker .uib-title{width:100%;}.uib-day button,.uib-month button,.uib-year button{min-width:100%;}.uib-left,.uib-right{width:100%}</style><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
 
 
@@ -236,11 +235,7 @@ div.im-colormask > div {
   </style>
 </head2>
 <body>
-<h1><a  href="cance.html";
-        Intent i = new Intent(Intent.ACTION_VIEW);
-        i.setData(Uri.parse(url));
-        startActivity(i);" class="link  "  class="fon"     data-v-481c4cd2="" data-v-9b918a6c=""></><</a></h1>
-</body>
+<h1>
 
 
 
@@ -291,50 +286,7 @@ div.im-colormask > div {
         <p style="margin-left:35px">1.3.1. Персональные данные, которые пользователь предоставляет о&nbsp;себе самостоятельно в&nbsp;процессе использования приложения. Обязательная для предоставления информация помечена специальным образом. Иная информация предоставляется пользователем на&nbsp;его усмотрение.</p>
         <p style="margin-left:35px">1.3.2. Данные, которые автоматически передаются приложением в&nbsp;процессе его работы и&nbsp;необходимы банку для качественного оказания услуг дистанционного обслуживания, в&nbsp;том числе IP-адрес, информация о&nbsp;модели, серийном номере телефона, времени доступа, географических координатах, действиях в&nbsp;приложении.</p>
 
-
-
-
-        <html>
         <head>
-            <meta charset="utf-8">
-            <title>Рамка вокруг текста</title>
-            <style>
-   aos {
-    background: #4169E1; /* Цвет фона */
-    color: #fff; /* Цвет текста */
-    padding: 7px; /* Поля вокруг текста */
-    -moz-border-radius: 5px; /* Для Firefox 3 */
-    -webkit-border-radius: 5px; /* Для Safari 4 и Chrome */
-    border-radius: 5px; /* Для современных браузеров */
-   }
-  </style>
-        </head>
-        <body>
-        <a href="./payment1.html" class="link   vtb-online-button vtb-online-button--dark fon "  class="fon"     data-v-481c4cd2="" data-v-9b918a6c="" > <p><center><aos>Подтвердить</aos></center></p></a>
-
-        </body>
-        </html>
-
-        <html>
-        <head>
-            <meta charset="utf-8">
-            <title>Рамка вокруг текста</title>
-            <style>
-   ao {
-    background: #fff; /* Цвет фона */
-    color: #4169E1; /* Цвет текста */
-    padding: 7px; /* Поля вокруг текста */
-    -moz-border-radius: 5px; /* Для Firefox 3 */
-    -webkit-border-radius: 5px; /* Для Safari 4 и Chrome */
-    border-radius: 5px; /* Для современных браузеров */
-   }
-  </style>
-        </head>
-        <body>
-        <a href="./cance.html";
-           Intent i = new Intent(Intent.ACTION_VIEW);
-           i.setData(Uri.parse(url));
-           startActivity(i);" class="link   vtb-online-button vtb-online-button--dark fon "  class="fon"     data-v-481c4cd2="" data-v-9b918a6c="" > <p><center><ao>Отмена</ao></center><p></a>
 
         </body>
         </html>
